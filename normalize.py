@@ -1,6 +1,5 @@
 import cv2
 import os
-from os.path import isfile, join
 
 print(os.listdir("Poses/"))
 
@@ -13,7 +12,7 @@ for pose in poses:
         files = os.listdir('Poses/' + pose + '/' + subdir + '/')
         print(">> Working on examples : " + subdir)
         for file in files:
-            if(file.endswith(".png")):
+            if file.endswith(".png"):
                 path = 'Poses/' + pose + '/' + subdir + '/' + file
                 # Read image
                 im = cv2.imread(path)

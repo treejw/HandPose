@@ -1,0 +1,13 @@
+* hand_poses_wGarbage_10.h5
+  - original weight
+  - train with 6 poses ( Four, Garbage, Dang(Rock), Startrek, Fist, Palm )
+
+* hand_pos_190816_10.h5
+  - Date : 190816
+  - train with 7 poses ( Close, Open, Up, Down, Left, Right, Garbage )
+  - number of peaple in dataset : author + 1 person
+
+* hand_pos_190819_10.h5
+  - Date : 190819
+  - train with 7 poses ( Close, Open, Up, Down, Left, Right, Garbage )
+  - number of peaple in dataset : author + 2 people

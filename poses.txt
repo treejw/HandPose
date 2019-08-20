@@ -1,6 +1,7 @@
-Four
+Close
+Open
+Up
+Down
+Left
+Right
 Garbage
-Rock
-Startrek
-Fist
-Palm
