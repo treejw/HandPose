@@ -1,5 +1,16 @@
 # HandPose
 
+**[MrEliptik/HandPose](https://github.com/MrEliptik/HandPose) 의 코드를 이용해 다른 동작으로 모델 재학습**
+
+**수정 및 업로드 날짜 : 2019-08-20**
+
+**재학습된 동작 : UP, DOWN, LEFT, RIGHT, CLOSE, OPEN, GARBAGE**
+
+
+---
+# HandPose
+
+
 [✔ WORKING]  
 *(See the [TODO](##TODO) list below for future improvements)*
 
